@@ -53,8 +53,11 @@ h3.bio-header {
 .five{
     font-family: italic;
     flex-wrap: wrap;
-    background-color: aqua;
+    background-color: rgb(201, 230, 230);
     
+}
+h3{
+    font-weight: 300;
 }
 
 
