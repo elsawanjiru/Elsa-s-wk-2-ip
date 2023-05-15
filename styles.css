@@ -19,7 +19,7 @@ body {
 
 .elsa ul li:hover{
     box-shadow: 5px 5px 5px gray;
-    background-color: pink;
+    background-color: rgb(201, 54, 79);
     margin: 2px;
 }
 
