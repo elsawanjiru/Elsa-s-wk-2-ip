@@ -95,7 +95,7 @@ a{
 }
 
 #two li {
-    margin: 0 10px; 
+    margin: 0 9px; 
     padding: 20px;
 }
 
@@ -127,7 +127,7 @@ a{
 }
 .button-rent{
     color:var(--orange);
-    border:2px solid orange;
+    border:2px solid rgba(235, 173, 57, 0.973);
     background: none;
     padding:10px 15px;
     border-radius:5px;
