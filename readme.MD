@@ -19,7 +19,11 @@ git push origin
 
 ## Link to Live Site
 
-https://github.com/elsawanjiru/Elsa-s-wk-2-ip.git
+https://elsawanjiru.github.io/Elsa-s-wk-2-ip/
+
+## Website Sketch
+<img width="1440" alt="Landing-page" src="https://github.com/elsawanjiru/Elsa-s-wk-2-ip/assets/132676738/c43cf232-7db5-4b4f-b5f8-0f87efdf979e">
+
 
 
 
