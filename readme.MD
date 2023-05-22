@@ -1,5 +1,5 @@
-## Elsa-s-wk-2-ip
-own cars faster
+## Elsa week 3 project
+Memory Game
 
 ## Author 
 Elsa Wanjiru
