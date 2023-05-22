@@ -5,12 +5,12 @@ Memory Game
 Elsa Wanjiru
 
 ## Portfolio Description
-This portfolio describes a company that deals with cars and all the servics a car can be offerd.
+This portfolio is a description on a project of creating a game
 
 ## Installation process
 
 ````
-git clone https://github.com/elsawanjiru/Elsa-s-wk-2-ip.git
+git clone 
 git init
 git add .
 git commit -m "initial commit"
@@ -30,7 +30,7 @@ https://elsawanjiru.github.io/Elsa-s-wk-2-ip/
 ## Licence
 MIT License
 
-Copyright (c)2023 [Elsa Wanjiru]
+Copyright (c)2023   [Elsa Wanjiru]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
